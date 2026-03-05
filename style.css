@@ -457,4 +457,17 @@ section {
   .service-card, .portfolio-item, .feature {
     padding: 1.5rem;
   }
+
+}
+
+.contact-item{
+  display: flex;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+.contact-item:hover{
+  opacity: 0.8;
 }
