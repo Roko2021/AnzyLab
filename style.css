@@ -475,6 +475,7 @@ section {
 
 .logo-img {
   height: 50px;
+  width: 100px;
   cursor: pointer;
   transition: 0.3s;
 }
